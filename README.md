@@ -1,1 +1,1 @@
-# Design-of-32-bit-RISC-Microprocessor
+The goal of this project is to design a 32-bit RISC microprocessor with load-store architecture, a 4-stage pipeline, and Harvard architecture. The project also includes the instruction and data memory interfaces, the register interface, and the entire pipeline control logic, including full resolution of all structural,control, and data hazards. The memory interface only supports a single asynchronous memory interface.
